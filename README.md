@@ -5,3 +5,4 @@ This came from discovering that my name, Aditya, is almost alphabetically sequen
 "python3 wordchecker.py 3" wont return ab as a result but will return abs. All words are written to a textfile called "finalList"
 
 
+[nameLogo.pdf](https://github.com/sutble/wordlogo/files/491374/nameLogo.pdf)
