@@ -8,3 +8,5 @@ Below are some examples I came up with
 
 
 ![namelogo](https://cloud.githubusercontent.com/assets/10662653/18811589/a80a7af4-8269-11e6-8467-63dbf7900a28.png)
+![ghostlogo](https://cloud.githubusercontent.com/assets/10662653/18811600/fc67e654-8269-11e6-9860-3e342e119146.png)
+![belowlogo](https://cloud.githubusercontent.com/assets/10662653/18811601/fde44de2-8269-11e6-9be7-4183b056466b.png)
