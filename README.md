@@ -7,6 +7,6 @@ For example, "python3 wordchecker.py 3" wont return ab but will return abs. All 
 Below are some examples I came up with
 
 ![namelogo](https://cloud.githubusercontent.com/assets/10662653/18811614/018dfc80-826b-11e6-86f1-6a3b80acee3b.png)
-[ghostLogo.pdf](https://github.com/sutble/wordlogo/files/491379/ghostLogo.pdf)
-[belowLogo.pdf](https://github.com/sutble/wordlogo/files/491380/belowLogo.pdf)
+![ghostLogo.pdf](https://github.com/sutble/wordlogo/files/491379/ghostLogo.pdf)
+![belowLogo.pdf](https://github.com/sutble/wordlogo/files/491380/belowLogo.pdf)
 
