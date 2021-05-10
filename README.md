@@ -10,4 +10,4 @@ Below are some examples I came up with
 ![ghostlogo](https://cloud.githubusercontent.com/assets/10662653/18811622/35e666e8-826b-11e6-8079-c95e7ee8f055.png)
 ![belowlogo](https://cloud.githubusercontent.com/assets/10662653/18811623/384b6348-826b-11e6-9cf0-a739e99e404a.png)
 
-
+Extend this to find other cool patterns in the alphabet
